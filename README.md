@@ -1,0 +1,1 @@
+This project shows you the basics of Git!
